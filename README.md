@@ -30,10 +30,7 @@ README.md
 -   **evidencias** → Contiene todas las capturas solicitadas.
 -   **README.md** → Documento explicando todo el proceso.
 
-Todo se puede compilar desde consola, no solamente desde el IDE.
-
 ------------------------------------------------------------------------
-
 ##  Parte A -- Dependencia entre proyectos
 
 Primero trabajé en la librería:
@@ -53,7 +50,6 @@ Luego compilé el handler desde consola:
 ``` bash
 mvn clean package
 ```
-
 Ambos proyectos compilaron correctamente.
 
 ------------------------------------------------------------------------
@@ -152,7 +148,7 @@ Solo se modificaron los nombres internos del código.
 
 ------------------------------------------------------------------------
 
-## 📸 Evidencias
+## Evidencias
 
 En la carpeta `evidencias/` incluí:
 

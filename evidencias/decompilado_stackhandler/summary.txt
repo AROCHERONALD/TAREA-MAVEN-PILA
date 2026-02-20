@@ -1,0 +1,2 @@
+Summary for C:\Users\UNIVERSITARIA RAAS\Desktop\TAREA-MAVEN-PILA\stackHandler\target\stackHandler-1.0.0-obfuscated.jar
+Decompiled with CFR 0.152

@@ -1,5 +1,5 @@
 Agregando README documentado del proyecto
-# Tarea Maven -- Pila, Ofuscación e Ingeniería Inversa
+# Tarea Maven + Dependencias + Validación de Expresiones + Ofuscación
 
 ## Objetivo de la práctica
 
